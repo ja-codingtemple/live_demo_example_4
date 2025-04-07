@@ -8,11 +8,10 @@ In this repository you have two options for starter code:
 - Implement the heal() method in your Character class.
 - Randomize the damage in your attack() method in the Character class.
 - Create two custom classes of your choice. These must extend the Character class. This means they must be subclasses of Character.
-- Create two special abilities for each custom class you create.
+- Create two special abilities for each custom class you create. Do this by implementing a special_ability() method for your custom classes.
 - Make sure to update your create_character() function to return an instance of each of these custom classes when the player selects them.
 - Make sure that when the player chooses the heal option that it calls heal()
 - Make sure that when the player chooses the special ability option that it calls special_ability()
-- Add a special_ability() option to your custom classes.
 
 # To run this program
 1. Clone this repository.
