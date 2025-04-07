@@ -16,5 +16,5 @@ In this repository you have two options for starter code:
 # To run this program
 1. Clone this repository.
 2. Open terminal.
-3. Navigate into the project folder.
+3. Navigate into the project folder. You can use the change directory command ``cd`` to do this.
 4. Type ``python filename.py`` If the file is called ``alternative_starter_code.py`` you would run ``python alternative_starter_code.py``
